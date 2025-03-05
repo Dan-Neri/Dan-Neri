@@ -6,7 +6,7 @@ Current projects:
 - Working at a start-up helping to build a an app geared towards helping you learn a new language. Along with the founder, I am responsible for the development across the entire MERN tech stack. (private)
 
 Projects on hold:
- - a project planner with the following stack: TypeScript, React, ChakraUI, NestJS, and PostgresSQL. Check it out [here](https://github.com/Dan-Neri/To-Do-Project) if you're interested.
+ - a [project planner](https://github.com/Dan-Neri/To-Do-Project) designed to help you plan and track the status of your software projects. Created with the following tech stack: TypeScript, React, ChakraUI, NestJS, and PostgresSQL.
 
 Completed Projects:
  - [BlackJack Progessive Betting Strategy Simulator](https://github.com/Dan-Neri/blackjack)
