@@ -1,7 +1,14 @@
 Hi I'm Dan, welcome to my personal space! This is where you can find my most recent projects.
 
-I've recently obtained my [PCAP <img src="https://images.credly.com/size/680x680/images/4e248e82-9e87-4a63-9263-250fafe5fb1f/image.png" width="30" height="30">](https://www.credly.com/badges/e8c13fc6-a8c0-440b-9436-013e3817a690/public_url) and [SCA <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mu5&oid=00DF0000000gZsu&lastMod=1617267801000" width="50" height="30">](https://www.salesforce.com/trailblazer/danmneri) certifications and I'm excited to use my skills to create some interesting things! 
+Current projects:
+- Mentoring a junior developer to help him build a Python web Scraper to collect new homes built in the greater Phoenix area and load them into a Postgres database. Along with a NestJs API and React front end which will display listing information on demand and integrate with Google Maps. (private)
+- Along with another engineer, a Social Media app geared towards driving interaction between you, your family, and those closest to you. I am responsible for the back-end API written in Java and SpringBoot along with the MySQL database management. My Partner is taking care of the front end written in React Native. (private)
+- Working at a start-up helping to build a an app geared towards helping you learn a new language. Along with the founder, I am responsible for the development across the entire MERN tech stack. (private)
 
-Right now I'm working on creating a project planner with the following stack: TypeScript, React, ChakraUI, NestJS, and PostgresSQL. Check it out [here](https://github.com/Dan-Neri/To-Do-Project) if you're interested. 
+Projects on hold:
+ - a project planner with the following stack: TypeScript, React, ChakraUI, NestJS, and PostgresSQL. Check it out [here](https://github.com/Dan-Neri/To-Do-Project) if you're interested.
+
+Completed Projects:
+ - [BlackJack Progessive Betting Strategy Simulator]([https://github.com/Dan-Neri/To-Do-Project](https://github.com/Dan-Neri/blackjack))
 
 If you'd like to connect with me, please shoot me an [email ✉️](mailto:DanMNeri@lgmail.com)!
