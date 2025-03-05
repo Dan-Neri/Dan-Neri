@@ -9,6 +9,6 @@ Projects on hold:
  - a project planner with the following stack: TypeScript, React, ChakraUI, NestJS, and PostgresSQL. Check it out [here](https://github.com/Dan-Neri/To-Do-Project) if you're interested.
 
 Completed Projects:
- - [BlackJack Progessive Betting Strategy Simulator](https://github.com/Dan-Neri/To-Do-Project](https://github.com/Dan-Neri/blackjack)
+ - [BlackJack Progessive Betting Strategy Simulator](https://github.com/Dan-Neri/blackjack)
 
 If you'd like to connect with me, please shoot me an [email ✉️](mailto:DanMNeri@lgmail.com)!
