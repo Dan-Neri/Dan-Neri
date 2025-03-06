@@ -10,5 +10,6 @@ Projects on hold:
 
 Completed Projects:
  - [BlackJack Progessive Betting Strategy Simulator](https://github.com/Dan-Neri/blackjack)
+ - [Web Scraper](https://github.com/Dan-Neri/Web_Scraper)
 
 If you'd like to connect with me, please shoot me an [email ✉️](mailto:DanMNeri@lgmail.com)!
